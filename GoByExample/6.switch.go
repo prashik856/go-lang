@@ -53,3 +53,5 @@ func main() {
 	whatAmI(1)
 	whatAmI("hey")
 }
+
+// go run switch.go
